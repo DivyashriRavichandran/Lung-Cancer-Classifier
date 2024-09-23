@@ -1,3 +1,13 @@
+## About the Project
+
+
+This project demonstrates the potential of the **DCGAN (Deep Convolutional Generative Adversarial Network)** augmented model in improving the accuracy and reliability of lung cancer diagnosis. 
+
+### 🚀 **Key Features:**
+- **Data Augmentation:** Utilizes synthetic image generation to expand datasets where resources are limited.
+- **Enhanced CNN Model:** Classifies histopathological images of lung tissues to detect various types of lung cancer.
+- **Accuracy:** Achieves a 93% accuracy rate.
+
 ## Running the Web Application
 
 To run the Lung Cancer Detector Web Application, make sure you have Docker Desktop installed.
